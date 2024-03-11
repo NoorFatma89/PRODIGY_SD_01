@@ -6,9 +6,9 @@ Languages Used: C++
 
 Concepts Used: Classes and Functions, Switch Case Statement etc.
 
-Details: I implemented Classes and Function Concept of C++ in this Task 1. I declare all the functions of required calculation inside Class and define all of them outside the Class using Scope Resolution Operator(::). I used the Switch Case statement to compare the condition and sccording to that call the respective function.
+Details: I implemented Classes and Function Concepts of C++ in this Task 1. I declare all the functions of required calculation inside the Class and define them outside the Class using Scope Resolution Operator(::). I used the Switch Case statement to compare the condition and call the respective function according to that.
 
-What I learned from this?
+What did I learn from this?
 
   What is Class.
   What is Function.
