@@ -1,4 +1,4 @@
-Prodigy Infotech Internsip 
+Prodigy Infotech Internship 
 
 Task 01: Temperature Conversion Program
 
